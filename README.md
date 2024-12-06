@@ -21,9 +21,9 @@ Requirement for achieving this
 -	Installing Git
 -	First-Time Git Setup
 -	Configuration :Identity
--	 git config --global # User (global) -> ~/.gitconfig
--	 git config --system # System -> /etc/gitconfig
--	 git config  # Project -> /.git/conifg
+           git config --global # User (global) -> ~/.gitconfig
+           git config --system # System -> /etc/gitconfig
+           git config  # Project -> /.git/conifg
 -	Git Basics
 •	Configure and initialize a repository
 •	Begin and stop tracking files and stage and commit changes
