@@ -41,7 +41,7 @@ Examples:
 - Skipping the Staging Area
 $ git commit -a -m "<msg>"
 
--	Removing Files
+# Removing Files
 $ git rm <filename> # removes file from tracking and from filesystem
 -	Undoing Things
 o	Change the most recent Commit
@@ -50,7 +50,7 @@ o	Untracking tracked file
 	git rm --cached <filename>
 o	Unmodifying a Modified File
  git restore <filename>
-                      Unstaging staged file
+  #                    Unstaging staged file
                           git restore --staged <filenmame> # recent command
                           git reset HEAD <filenmame> # old command but still works so far        
  Restore (revert) a committed change
