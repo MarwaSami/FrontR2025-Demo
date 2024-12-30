@@ -1,4 +1,4 @@
--	Git ? git hub?
+-	Git ? Git hub?
 -	Before version control ? issues ?
 -	Type of version control
 -	Short history of git 
